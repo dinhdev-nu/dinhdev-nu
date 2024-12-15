@@ -5,6 +5,7 @@
 ![⭐ Followers](https://img.shields.io/github/followers/dinhdev-nu?label=Follow&style=social)
 ![✨ Stars](https://img.shields.io/github/stars/dinhdev-nu?label=Stars&style=social)
 
+<img src="https://thuvienmeme.com/wp-content/uploads/2024/08/meme-gif-meo-suyt-trat-tu.gif" width="100" height="100">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" height="100"> 
 
 Welcome to my GitHub profile! I'm a passionate **Backend Developer** 🚀, always excited to work on challenging problems and build scalable web applications. 🔥
