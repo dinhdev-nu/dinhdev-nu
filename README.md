@@ -1,32 +1,56 @@
-## Hi there 👋
-
-![image](https://github.com/user-attachments/assets/065f9e37-cd7f-4c19-9969-59f7c3fbe20b)
-
-😄  I am dinhdev-nu. dinhdev-nu is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm DinhDev! 👋 ❤️
 
 
+![👀 Profile Views](https://komarev.com/ghpvc/?username=dinhdev-nu&color=blue)
+![⭐ Followers](https://img.shields.io/github/followers/dinhdev-nu?label=Follow&style=social)
+![✨ Stars](https://img.shields.io/github/stars/dinhdev-nu?label=Stars&style=social)
 
- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![🎉 Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-- 
-<!--
-**dinhdev-nu/dinhdev-nu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Backend Developer** 🚀, always excited to work on challenging problems and build scalable web applications. 🔥
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🔭 I’m currently working on MY LIFE.
+- 🌱 I’m learning **NodeJS**, **WebSocket**, and **scalable system design**.
+- 👯 I’m looking to collaborate on **backend projects** or **open-source initiatives**.
+- 💬 Ask me about **Node.js**, **APIs**, **MongoDB**, and more! 🛠️
+- 📫 How to reach me: [📧 your-email@example.com](mailto:your-email@example.com).
+
+---
+
+## 🛠️ Tech Stack 🚀
+- **Languages**: 🟨 JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black), 🟦 TypeScript ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white), 🐍 Python ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- **Backend**: 🟩 Node.js ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white), 🚏 Express.js ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+- **Database**: 🍃 MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white), 🐘 PostgreSQL ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+- **Tools**: 🐳 Docker ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white), 🖋️ Git ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white), 🖥️ VS Code ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+- **Other**: 📡 REST APIs 🔗 WebSocket 📦 Microservices
+- **Frontend**: ⚛️ React ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black), 🎨 HTML ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white), 🎨 CSS ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+- **Exploring**: 🐹 Go ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dinhdev-nu&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhdev-nu&layout=compact&theme=radical" height="180em" />
+</div>
+
+---
+
+## 📈 Contributions
+![📊 GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dinhdev-nu&theme=react-dark)
+
+---
+
+## 📧 Contact
+- 🌐 Personal Website: [🌍 dinhdev.com](https://dinhdev.com) *(if applicable)*
+- 💼 LinkedIn: [🔗 linkedin.com/in/dinhdev](https://linkedin.com/in/dinhdev)
+- 🐦 Twitter: [🔗 @dinhdev](https://twitter.com/dinhdev)
+- ✉️ Email: [📧 your-email@example.com](mailto:your-email@example.com)
+
+---
+
+Thanks for visiting my profile! Have a great day! 😊 ❤️
+
