@@ -51,11 +51,6 @@ Welcome to my GitHub profile! I'm a passionate **Backend Developer** 🚀, alway
 
 ---
 
-## 📈 Contributions
-![📊 GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dinhdev-nu&theme=react-dark)
-
----
-
 ## 📧 Contact
 - 🌐 Personal Website: [🌍 dinhdev.com](https://dinhdev.com) *(if applicable)*
 - ✉️ Email: [📧 truongbadinh13579@gmail.com](mailto:truongbadinh13579@gmail.com)
