@@ -5,9 +5,21 @@
 ![⭐ Followers](https://img.shields.io/github/followers/dinhdev-nu?label=Follow&style=social)
 ![✨ Stars](https://img.shields.io/github/stars/dinhdev-nu?label=Stars&style=social)
 
-![🎉 Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" height="100"> 
 
 Welcome to my GitHub profile! I'm a passionate **Backend Developer** 🚀, always excited to work on challenging problems and build scalable web applications. 🔥
+
+<pre><code>
+   _ .-') _                .-') _  ('-. .-. _ .-') _     ('-.        (`-.                .-') _             
+( (  OO) )              ( OO ) )( OO )  /( (  OO) )  _(  OO)     _(OO  )_             ( OO ) )            
+ \     .'_   ,-.-') ,--./ ,--,' ,--. ,--. \     .'_ (,------.,--(_/   ,. \        ,--./ ,--,' ,--. ,--.   
+ ,`'--..._)  |  |OO)|   \ |  |\ |  | |  | ,`'--..._) |  .---'\   \   /(__/  .-')  |   \ |  |\ |  | |  |   
+ |  |  \  '  |  |  \|    \|  | )|   .|  | |  |  \  ' |  |     \   \ /   / _(  OO) |    \|  | )|  | | .-') 
+ |  |   ' |  |  |(_/|  .     |/ |       | |  |   ' |(|  '--.   \   '   /,(,------.|  .     |/ |  |_|( OO )
+ |  |   / : ,|  |_.'|  |\    |  |  .-.  | |  |   / : |  .--'    \     /__)'------'|  |\    |  |  | | `-' /
+ |  '--'  /(_|  |   |  | \   |  |  | |  | |  '--'  / |  `---.    \   /            |  | \   | ('  '-'(_.-' 
+ `-------'   `--'   `--'  `--'  `--' `--' `-------'  `------'     `-'             `--'  `--'   `-----'    
+</code></pre>
 
 ---
 
@@ -16,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate **Backend Developer** 🚀, alway
 - 🌱 I’m learning **NodeJS**, **WebSocket**, and **scalable system design**.
 - 👯 I’m looking to collaborate on **backend projects** or **open-source initiatives**.
 - 💬 Ask me about **Node.js**, **APIs**, **MongoDB**, and more! 🛠️
-- 📫 How to reach me: [📧 your-email@example.com](mailto:your-email@example.com).
+- 📫 How to reach me: [📧 truongbadinh13579@gmail.com](mailto:truongbadinh13579@gmail.com).
 
 ---
 
@@ -46,9 +58,7 @@ Welcome to my GitHub profile! I'm a passionate **Backend Developer** 🚀, alway
 
 ## 📧 Contact
 - 🌐 Personal Website: [🌍 dinhdev.com](https://dinhdev.com) *(if applicable)*
-- 💼 LinkedIn: [🔗 linkedin.com/in/dinhdev](https://linkedin.com/in/dinhdev)
-- 🐦 Twitter: [🔗 @dinhdev](https://twitter.com/dinhdev)
-- ✉️ Email: [📧 your-email@example.com](mailto:your-email@example.com)
+- ✉️ Email: [📧 truongbadinh13579@gmail.com](mailto:truongbadinh13579@gmail.com)
 
 ---
 
