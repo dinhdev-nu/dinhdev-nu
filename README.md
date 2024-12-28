@@ -59,7 +59,6 @@
 ---
 
 ## 📧 Contact
-- 🌐 Personal Website: [🌍 dinhdev.com](https://dinhdev.com) *(if applicable)*
 - ✉️ Email: [📧 truongbadinh13579@gmail.com](mailto:truongbadinh13579@gmail.com)
 
 ---
