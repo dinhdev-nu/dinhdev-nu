@@ -1,11 +1,13 @@
-### Hey there
+### Hey there 👋
 
-Hi, I'm [Quang](https://quangdang.live/), a passionate self-taught web developer and a freelance software engineer from Vietnam. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-<img align="right" alt="GIF" src="https://github.com/dinhdev-nu/dinh/blob/main/public/200w.gif" width="450" height="320" padding="10" />
+Hi, I'm [Dinh](#), a passionate web development student and aspiring software engineer from Vietnam. I enjoy learning and building web applications, turning ideas into reality with clean and efficient code. I focus on improving user experience, architecture, and code quality in everything I create.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-  
-- 💬 Ask me about anything, I am happy to help.
+<img align="right" alt="GIF" src="https://github.com/dinhdev-nu/dinh/blob/main/public/200w.gif" width="450" height="320" />
+
+I am also interested in open-source development and love contributing to the community. Through open-source, I have learned a lot about collaboration and knowledge sharing, which has helped me grow as a developer.
+
+- 💬 Feel free to ask me anything, I'm happy to help!
+
 
 **Languages and Tools:**  
 
