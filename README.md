@@ -17,3 +17,6 @@ I am also interested in open-source development and love contributing to the com
 <code><img height="20" src="https://github.com/dinhdev-nu/dinh/blob/main/public/mysql.png"></code>
 <code><img height="20" src="https://github.com/dinhdev-nu/dinh/blob/main/public/redis.png"></code>
 <code><img height="20" src="https://github.com/dinhdev-nu/dinh/blob/main/public/git.png"></code>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhdev_nu&layout=compact&theme=dark)
