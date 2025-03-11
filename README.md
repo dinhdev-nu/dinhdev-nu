@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-Hi, I'm [Dinh](#), a passionate web development student and aspiring software engineer from Vietnam. I enjoy learning and building web applications, turning ideas into reality with clean and efficient code. I focus on improving user experience, architecture, and code quality in everything I create.
+Hi, I'm [Dinh](https://github.com/dinhdev-nu), a passionate web development student and aspiring software engineer from Vietnam. I enjoy learning and building web applications, turning ideas into reality with clean and efficient code. I focus on improving user experience, architecture, and code quality in everything I create.
 
 <img align="right" alt="GIF" src="https://github.com/dinhdev-nu/dinh/blob/main/public/200w.gif" width="450" height="320" />
 
@@ -18,5 +18,6 @@ I am also interested in open-source development and love contributing to the com
 <code><img height="20" src="https://github.com/dinhdev-nu/dinh/blob/main/public/redis.png"></code>
 <code><img height="20" src="https://github.com/dinhdev-nu/dinh/blob/main/public/git.png"></code>
 
+</br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhdev_nu&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhdev-nu&layout=compact&theme=radical)
