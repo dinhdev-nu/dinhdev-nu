@@ -21,6 +21,6 @@ I am also interested in open-source development and love contributing to the com
 <img align="right" alt="GIF" src="https://github.com/dinhdev-nu/dinhdev-nu/blob/main/public/example.gif" width="70"  />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhdev-nu&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhdev-nu&theme=radical&layout=compact)
 
 
